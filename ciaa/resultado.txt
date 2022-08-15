@@ -1,0 +1,1 @@
+Elegí diseñar un filtro pasa bajos para no dejar pasar las frecuencias mayores a 1.6kHz, y quedarme con la parte de audio de interés.
